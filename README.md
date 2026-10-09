@@ -60,3 +60,9 @@ ___
 <https://github.com/birdsinyourgarden>  
 [Mi web](https://github.com/birdsinyourgarden "Paloma")
 [enlace relativo](./docs/guia.md)
+
+
+8. Líneas horizontales  
+[ir a la sección](#8-líneas-horizontales)
+
+![texto alternativo](https://github.com/user-attachments/assets/04d030c1-f2a0-468a-8a91-7a37c5449891)
