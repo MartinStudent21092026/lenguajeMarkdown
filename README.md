@@ -66,3 +66,7 @@ ___
 [ir a la sección](#8-líneas-horizontales)
 
 ![texto alternativo](https://github.com/user-attachments/assets/04d030c1-f2a0-468a-8a91-7a37c5449891)
+<img width="300" height="200" alt="foca" src="https://github.com/user-attachments/assets/1eb75f09-3742-4c6d-a3a1-a683dc61549a" />
+
+
+
