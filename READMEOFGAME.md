@@ -64,7 +64,7 @@ Un reino cubierto por una niebla maldita y venenosa que drena tu barra de vida c
 En el endgame puedes conseguir y mejorar al máximo el talismán Guantelete de las Eras Ancestrales. Si le engarzas tres encantamientos específicos (que hacen alusión a las Gemas del Infinito de Marvel), desbloquearás un ataque especial secreto disparando un rayo devastador.
 
 ## Conclusiones
-Tanto si te gusta las mitólogas de bestias míticas o si eres fan de la saga de God Of War este juego te encantara, cuenta con más 60 horas de juego.
+Tanto si te gusta las mitólogas de bestias míticas o si eres fan de la saga de **God of War** este juego te encantara, cuenta con más 60 horas de juego.
 
 <img width="499" height="381" alt="HeartLoveGIFbySantaMonicaStudio" src="https://github.com/user-attachments/assets/c56d9283-6531-4f7e-b15f-dc3a4b926d1a" />
 
